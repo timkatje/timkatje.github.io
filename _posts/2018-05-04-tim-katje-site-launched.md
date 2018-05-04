@@ -16,4 +16,5 @@ Peace and long life,
 -Tim
  
 P.S. I followed the following guide to build this initial site:
-http://jmcglone.com/guides/github-pages/
+
+<a href="http://jmcglone.com/guides/github-pages/" /a>
