@@ -17,4 +17,4 @@ Peace and long life,
  
 P.S. I followed the following guide to build this initial site:
 
-<a href="http://jmcglone.com/guides/github-pages/" /a>
+<a href="http://jmcglone.com/guides/github-pages/">http://jmcglone.com/guides/github-pages/</a>
